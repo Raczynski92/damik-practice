@@ -1,6 +1,6 @@
-##Ćwiczenia Damika
+## Ćwiczenia Damika
 
-###1. Linux and git basics
+### 1. Linux and git basics
 
 Dobra, zaczniemy od najprostszych rzeczy.
 
